@@ -1,0 +1,58 @@
+{
+  "restaurantes": [
+    {
+      "nome": "Sabor do Sul",
+      "pratos": [
+        "Churrasco Gaúcho",
+        "Arroz Carreteiro",
+        "Feijão Tropeiro"
+      ],
+      "cidade": "Porto Alegre"
+    },
+    {
+      "nome": "Canto do Sabor",
+      "pratos": [
+        "Feijoada",
+        "Moqueca de Peixe",
+        "Pão de Queijo"
+      ],
+      "cidade": "Porto Alegre"
+    },
+    {
+      "nome": "Delícias da Serra",
+      "pratos": [
+        "Polenta com Ragu",
+        "Truta Grelhada",
+        "Risoto de Cogumelos"
+      ],
+      "cidade": "Gramado"
+    },
+    {
+      "nome": "Restaurante Italiano La Tavola",
+      "pratos": [
+        "Lasagna",
+        "Ravioli de Ricota",
+        "Pizza Margherita"
+      ],
+      "cidade": "Gramado"
+    },
+    {
+      "nome": "Café e Cia",
+      "pratos": [
+        "Croissant de Chocolate",
+        "Torta de Limão",
+        "Café Expresso"
+      ],
+      "cidade": "São Paulo"
+    },
+    {
+      "nome": "Sushi Garden",
+      "pratos": [
+        "Sushi de Salmão",
+        "Temaki de Atum",
+        "Yakimeshi"
+      ],
+      "cidade": "São Paulo"
+    }
+  ]
+}
